@@ -5,6 +5,7 @@
 Repository containing portfolio of data science projects completed for self learning and fun. Presented in the form of Jupyter Notebooks.
  
  1. Predicting the approval of a credit card request
+ 2. Exploring different classification models to predict churn in the telecom industry
  
 
 *Tools*
